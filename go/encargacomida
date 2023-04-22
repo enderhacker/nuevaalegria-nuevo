@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- destination of redirect -->
-  <meta http-equiv="Refresh" content="2; url=https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=c66d1e96-c271-44bc-af88-577e83634b24">
+  <!-- <meta http-equiv="Refresh" content="2; url=https://google.com">  -->
 
 
   <style>
@@ -83,7 +83,7 @@
     <!-- text below -->
     <div class="text-container">
       <p>Estas siendo redirigido a <span>nuestra carta</span></p>
-      <p>No funciona? Clickea <a href="https://www.foodbooking.com/ordering/restaurant/menu?restaurant_uid=c66d1e96-c271-44bc-af88-577e83634b24">aquí</a> para ir manualmente.</p>
+      <p>No funciona? Clickea <a href="">aquí</a> para ir manualmente.</p>
     </div>
 
   </div>
