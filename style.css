@@ -348,6 +348,59 @@ section
 	font-weight: 600;
 }
 
+.maps
+{
+	background: url(https://static.vecteezy.com/system/resources/previews/001/741/695/non_2x/statice-and-caspia-flowers-in-a-vase-on-white-background-free-photo.jpg);
+	background-size: cover;
+}
+
+
+
+.maps .content
+{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: row;
+	margin-top: 40px;
+}
+
+.maps .content .box
+{
+	width: 340px;
+	margin: 20px;
+	padding: 40px;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.maps .content .box .imgBx img
+{
+	width: 80px;
+	height: 80px;
+	margin-bottom: 20px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+.maps .content .box .text p
+{
+	color: #666;
+	font-style: italic;
+}
+
+.maps .content .box .text h3
+{
+	margin-top: 20px;
+	color: #111;
+	font-size: 1em;
+	color: #306135;
+	font-weight: 600;
+}
+
 
 .contact
 {
